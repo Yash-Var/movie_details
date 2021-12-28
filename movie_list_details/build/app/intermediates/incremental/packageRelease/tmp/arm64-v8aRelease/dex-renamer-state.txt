@@ -1,0 +1,4 @@
+#Tue Dec 28 17:54:03 IST 2021
+base.0=C\:\\src\\flutter_projects\\movie_list_details\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
